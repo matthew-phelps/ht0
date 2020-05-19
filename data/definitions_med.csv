@@ -1,0 +1,5 @@
+﻿name_dk,name_en,atc_simple,grep_strings
+Antiarytmisk,Anti-arrhythmic,"C01, C05",^MC01|^MC05
+Antitrombotisk,Anti-thrombotic,B01,^MB01
+Blodtrykssænkene,Blood-pressure lowering,"C02, C03, C04, C07, C08, C09",^MC02|^MC03|^MC04|^MC07|^MC08|^MC09
+Kloesterolsænkende,cholesterol lowering,C10,^MC10
